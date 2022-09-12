@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Suya5h
-- 👀 I’m interested in Web Development and Video Editing
-- 🌱 I’m currently learning React and animation with 2D elements of figma and illustrator
+- 👋 Hi, I’m @Suyash
+- 👀 I’m interested in Web Development and Data Structure and Algorithms
+- 🌱 I’m currently learning React and algorithms.
 - 💞️ I’m looking to collaborate on web development projects specially front-end 
 - 📫 How to reach me ...
+Email : isuyashpatel@gmail.com 
 
 <!---
 Suya5h/Suya5h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
