@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suyash
-- 👀 I’m interested in Web Development and Data Structure and Algorithms
-- 🌱 I’m currently learning React and algorithms.
+- 👀 I’m interested in Video Editing, Web Development and Data Structure and Algorithms
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on web development projects specially front-end 
 - 📫 How to reach me ...
 Email : isuyashpatel@gmail.com 
