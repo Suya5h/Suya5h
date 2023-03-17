@@ -1,16 +1,9 @@
-- 👋 Hi, I’m @Suyash
-- 👀 I’m interested in Video Editing, Web Development and Data Structure and Algorithms
-- 🌱 I’m currently learning React.js & Node.js
-- 💞️ I’m looking to collaborate on web development projects specially front-end
-- 📫 How to reach me...
-  Email : isuyashpatel@gmail.com
-
-<!---
-Suya5h/Suya5h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Suyash patel</h1>
+<h3 align="center">I’m interested in Video Editing, Web Development and Data Structure and Algorithms</h3>
+
 - 🌱 I’m currently learning **Express & NextJS**
+
+- 🤝 I’m looking for help with **web development projects specially front-end**
 
 - 💬 Ask me about **ReactJS & NodeJS**
 
