@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects specially front-end**
 
-- 💬 Ask me about **ReactJS & NodeJS**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **isuyashpatel@gmail.com**
 
