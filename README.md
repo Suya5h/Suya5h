@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReactJS & NodeJS**
 
-- 🌱 I’m currently learning **Express and NextJS**
+- 🌱 I’m currently learning **NextJS and Express**
 
 - 👯 I’m looking to collaborate on **web development projects specially front-end**
 
