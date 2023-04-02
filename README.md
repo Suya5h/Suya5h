@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash Patel</h1>
-<h3 align="center">I’m interested in Video Editing, Web Development and Data Structure and Algorithms</h3>
+<h3 align="center">I’m interested in Web Development, Data Structures, Algorithms and Video Editing</h3>
 
 - 🔭 I’m currently working on **ReactJS & NodeJS**
 
